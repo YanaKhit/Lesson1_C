@@ -1,0 +1,15 @@
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\bin\MCD\Debug\net6.0\Task_8.exe
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\bin\MCD\Debug\net6.0\Task_8.deps.json
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\bin\MCD\Debug\net6.0\Task_8.runtimeconfig.json
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\bin\MCD\Debug\net6.0\Task_8.dll
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\bin\MCD\Debug\net6.0\Task_8.pdb
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.csproj.AssemblyReference.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.AssemblyInfoInputs.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.AssemblyInfo.cs
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.csproj.CoreCompileInputs.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.dll
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\refint\Task_8.dll
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.pdb
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\Task_8.genruntimeconfig.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_8\obj\MCD\Debug\net6.0\ref\Task_8.dll
