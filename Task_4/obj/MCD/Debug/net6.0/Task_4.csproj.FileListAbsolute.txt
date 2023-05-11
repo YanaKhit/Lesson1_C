@@ -1,0 +1,15 @@
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.AssemblyInfo.cs
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\bin\MCD\Debug\net6.0\Task_4.exe
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\bin\MCD\Debug\net6.0\Task_4.deps.json
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\bin\MCD\Debug\net6.0\Task_4.runtimeconfig.json
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\bin\MCD\Debug\net6.0\Task_4.dll
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\bin\MCD\Debug\net6.0\Task_4.pdb
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.dll
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\refint\Task_4.dll
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.pdb
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\Task_4.genruntimeconfig.cache
+C:\Users\ltyc\Desktop\lesson_1\Lesson1_C\Task_4\obj\MCD\Debug\net6.0\ref\Task_4.dll
